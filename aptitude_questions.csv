@@ -1,0 +1,6 @@
+id,topic,difficulty,question,option_a,option_b,option_c,option_d,correct_answer,explanation,formula
+1,Percentage,Easy,What is 20% of 150?,20,25,30,35,30,20 percent means 20/100 × 150 = 30,Percentage = (Part/Whole) × 100
+2,Average,Easy,Find average of 10 20 and 30,15,20,25,30,20,Average = (10+20+30)/3 = 20,Average = Sum of Values / Number of Values
+3,Profit and Loss,Medium,A shopkeeper buys a pen for 40 and sells for 50 Find profit percentage,20%,25%,30%,35%,25%,Profit = 10 Profit percentage = (10/40) × 100 = 25%,Profit % = (Profit/Cost Price) × 100
+4,Time and Work,Medium,If A completes work in 10 days how much work in 1 day,1/5,1/10,1/15,1/20,1/10,One day work = 1/10,Work Rate = 1/Days
+5,Ratio,Easy,Find ratio of 20 and 30,1:2,2:3,3:4,4:5,2:3,20:30 simplified is 2:3,Ratio Simplification
